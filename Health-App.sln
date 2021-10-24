@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health-App.Android", "Health-App\Health-App.Android\Health-App.Android.csproj", "{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health-App", "Health-App\Health-App\Health-App.csproj", "{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD80A08C-B6C0-46AA-BCDF-16E114861EB1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFF8F94-D570-4EB4-9F5E-B705DB8202BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C346DC32-D372-440B-A1E1-C9A88AD6C6DA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\bin\Debug\netstandard2.0\Health-App.deps.json
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\bin\Debug\netstandard2.0\Health-App.dll
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\bin\Debug\netstandard2.0\ref\Health-App.dll
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\bin\Debug\netstandard2.0\Health-App.pdb
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.dll
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\ref\Health-App.dll
+C:\Users\Micha\source\repos\Health-App\Health-App\Health-App\obj\Debug\netstandard2.0\Health-App.pdb
